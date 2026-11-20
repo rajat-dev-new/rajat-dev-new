@@ -8,6 +8,9 @@
 </a>
 
 <p align="center">
+  <a href="https://doi.org/10.5281/zenodo.24407251">
+    <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24407251-0284c7?style=for-the-badge&logo=doi&logoColor=white" alt="Zenodo DOI" />
+  </a>
   <a href="https://rajat-dev-new.github.io">
     <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-rajat--dev--new.github.io-00f2fe?style=for-the-badge&logoColor=07090e" alt="Interactive Portfolio" />
   </a>
