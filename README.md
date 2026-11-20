@@ -133,10 +133,10 @@ A representative blueprint of how I design deterministic, auditable Agentic AI s
 
 | Project | Domain / Client | Core Architecture &amp; Delivery |
 | :--- | :--- | :--- |
-| **Tesseract Forge** | Enterprise AI Platform | Engineered **LangGraph** stateful agent workflows with tool calling, FAISS + Knowledge Graph hybrid retrieval, and **Okta OIDC + PKCE** authentication. |
-| **DENSO Hyper Intelligence** | Automotive Cloud Ops | AWS production readiness: multi-AZ **VPC** routing, **RDS PostgreSQL**, **ElastiCache Redis**, **SSM** zero-bastion access, and **Trivy** container image vulnerability remediation. |
-| **Munich Re** | Financial Services | Architected high-performance **FastAPI / Python 3.12** microservices with Pydantic and SQLAlchemy, replacing legacy Java calculation pipelines for IFRS 17 Movement Analysis. |
-| **Credit Analyst Engine** | FinTech Innovation | Built an explainable loan origination engine combining deterministic Python math (zero LLM arithmetic for EMI/DTI) with local **Ollama** LLM qualitative document analysis. |
+| **[langgraph-agentic-sdlc](https://github.com/rajat-dev-new/langgraph-agentic-sdlc)** | Enterprise AI Platform (Tesseract Forge) | Engineered **LangGraph** stateful agent workflows with tool calling, FAISS + Knowledge Graph hybrid retrieval, and **Okta OIDC + PKCE** authentication. |
+| **[credit-analyst-hybrid-ai](https://github.com/rajat-dev-new/credit-analyst-hybrid-ai)** | FinTech Innovation (GenAI Centre) | Built an explainable loan origination engine combining deterministic Python math (zero LLM arithmetic for EMI/DTI) with local **Ollama** LLM qualitative document analysis. |
+| **[fastapi-actuarial-microservice](https://github.com/rajat-dev-new/fastapi-actuarial-microservice)** | Financial Services (Munich Re) | Architected high-performance **FastAPI / Python 3.12** microservices with Pydantic and SQLAlchemy, replacing legacy Java calculation pipelines for IFRS 17 Movement Analysis. |
+| **[aws-cloud-production-blueprint](https://github.com/rajat-dev-new/aws-cloud-production-blueprint)** | Automotive Cloud Ops (DENSO) | AWS production readiness: multi-AZ **VPC** routing, **RDS PostgreSQL**, **ElastiCache Redis**, **SSM** zero-bastion access, and **Trivy** container image vulnerability remediation. |
 | **TalkTrack** | Multimodal AI Quality | End-to-end testing, usability stabilization, OCR validation, camera capture edge cases, and release engineering across desktop and mobile. |
 
 ---
