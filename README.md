@@ -147,6 +147,17 @@ A representative blueprint of how I design deterministic, auditable Agentic AI s
 
 ---
 
+### 🧠 Data Structures & Algorithms Explained
+
+| Repository | Category | Concepts & Complexity Verified |
+| :--- | :--- | :--- |
+| **[ds-trees-graphs-python](https://github.com/rajat-dev-new/ds-trees-graphs-python)** | Data Structures | $O(1)$ **LRU Cache** (HashMap + Doubly Linked List), $O(L)$ **Trie**, $O(\log N)$ **Segment Tree**, and $O(\alpha(N))$ **Disjoint Set Union** with `unittest` suite. |
+| **[ds-heaps-hashing-skiplist](https://github.com/rajat-dev-new/ds-heaps-hashing-skiplist)** | Distributed Structures | **Min Binary Heap**, **Consistent Hash Ring** (virtual nodes + binary search), and **Bloom Filter** powering caches and schedulers. |
+| **[algo-graph-shortest-paths](https://github.com/rajat-dev-new/algo-graph-shortest-paths)** | Graph Algorithms Explained | Step-by-step walkthroughs & proofs for **Dijkstra's**, **A\* Heuristic Search**, and **Kahn's Topological Sort** with DAG cycle detection. |
+| **[algo-dp-sliding-window](https://github.com/rajat-dev-new/algo-dp-sliding-window)** | Core Algorithm Patterns | Visual mental models for **0/1 Knapsack DP**, $O(N)$ **Sliding Window**, **Monotonic Stack**, and **Binary Search on Answer**. |
+
+---
+
 ### 📊 Engineering Activity & Telemetry
 
 <div align="center">
